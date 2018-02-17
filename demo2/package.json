@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "browserify": "^16.1.0",
+    "gulp": "^3.9.1",
+    "watchify": "^3.10.0"
+  }
+}
